@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+    <title>Homework 4</title>
+
+
+</head>
+
+<body>
+  
+<h1>Java Developer </h1>
+<nav><a href="https://jobs.dou.ua/companies/oberig-doo/vacancies/118084/?from=rs" target="_blank" >Java Developer</a></nav>
+<nav>
+<ol>
+    <li> Отличные знания и опыт разработок в JVM не менее 3х лет</li>
+    <li> Умение и желание разбиратся с чужим кодом</li>
+    <li>Английский язык — на уровне общения посредством е-мейл и чата</li>
+</ol>
+</nav>
+<section>
+    <h2>Обо мне</h2>
+<p>Андрюхин Алексей Александрович </p>
+<p>Контактные данные:+380ХХХХХХХХХ</p>
+</section>
+</body>
+
+</html>
